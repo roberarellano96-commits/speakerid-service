@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+numpy
+soundfile
+resampy
+resemblyzer
+faiss-cpu
+python-multipart
+pydub
